@@ -1,1 +1,2 @@
-require("./lecture/array")
+// Javascript array 
+require("./lecture/array");
