@@ -1,1 +1,1 @@
-console.log("hello array ")
+console.log("hello im from  array ")
