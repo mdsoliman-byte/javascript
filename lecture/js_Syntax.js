@@ -7,7 +7,8 @@
 
 // ****************
 // LITERRALS VALUE : literals value are two type value , NNUMBER VALUE AND STRING VALUE 
-// 
+            // NUMBER VALUES : 1,2,3,4,5,6,7,10.4567 ,1.1,2.8 , 
+            // STRING VALUES : "IM SOLIMAN " (note : any thing inside is "dubble qute" are string value  )
 
 
 
