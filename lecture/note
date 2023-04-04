@@ -1,0 +1,6 @@
+What happens when we declare a let variable twice ? 
+
+1) It is fine to declare let variable twice
+2) It will show 'SyntaxError'
+3) Nothing Happens
+4) I will work perfectly

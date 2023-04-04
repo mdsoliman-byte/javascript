@@ -8,4 +8,7 @@ const numb = 30; // const is a variable name , numb is a variable name , = is a 
 
 num = 40;
 
+var price1 = 100;
+var price2 = 3000;
+var total = price1 + price2  // its a statment, (price1 + price2) its a expression 
 
