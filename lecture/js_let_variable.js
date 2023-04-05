@@ -12,3 +12,17 @@ function hello (){
     let name = "Prity" // example : we cannto access this variable outside of function , becouse this variable in the functional scop , 
 }
 
+// let x = 60;
+// function foo(){
+//     console.log(x)
+// }
+// function bar(){
+//     let x = 20;
+//     foo()
+// }
+// bar()
+
+let a = 40 ;
+// let a , declaration part 
+// a = 20 , assaigne part 
+// we cannot let redeclare , but we reassaign let value 
