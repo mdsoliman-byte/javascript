@@ -39,3 +39,8 @@
 
 /******************  Bitwise operators******************/
 // & and,  
+
+
+// Operator and operadns 
+
+// 10+ 12 ;   (+ ) is A OPERATOR and  (10 and 12 is  operands )
