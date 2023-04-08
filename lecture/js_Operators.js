@@ -16,11 +16,15 @@
 
 
 /******************  Assignment operators******************/
-// =, +=, -=, *= , /=, %=, **= , 
-// = , a=b , a=b  
-// += , a+=b , a=a+b  
-// -= , a-=b , a=a-b  
+// =, +=, -=, *= , /=, %=, **= ,
+// = , a=b , a=b
+// += , a+=b , a=a+b
+// -= , a-=b , a=a-b
 // *= , a*=b , a=a*b  if *= a*=b , than ,a = a*=b
-// /= , a/=b , a=a/b  
-// %= , a%=b , a=a%b  
-// **= , a**=b , a=a**b  
+// /= , a/=b , a=a/b
+// %= , a%=b , a=a%b
+// **= , a**=b , a=a**b
+
+/******************  Comparison  operators******************/
+// == equal to , === equal type , != not equal ,  !== not equal type , > greater than, < less than , >= greater than equal , <= less than equal , ? ternary Operator 
+
