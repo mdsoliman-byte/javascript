@@ -8,3 +8,8 @@
 // 6) Bitwise Operators 
 // 7) Ternary Operators 
 // 8) Type Operators 
+
+
+
+/******************  Arithmetic operators******************/ 
+// + aditonal , -Subtraction , * multiplication, ** Exponention  , / Divition , % Modulas , ++ Increment , -- Decrement 
