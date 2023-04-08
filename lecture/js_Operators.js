@@ -31,4 +31,11 @@
 /******************  Logical  operators******************/
 // && LOgical And  , || Logical Or , ! Logical Not
 /******************  Type  operators******************/
-// typeof  Return The type of a variable , instanceof Return True If object instanceof Object type 
+// typeof  Return The type of a variable , instanceof Return True If object instanceof Object type
+
+
+
+
+
+/******************  Bitwise operators******************/
+// & and,  
