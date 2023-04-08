@@ -29,4 +29,6 @@
 // == equal to , === equal type , != not equal ,  !== not equal type , > greater than, < less than , >= greater than equal , <= less than equal , ? ternary Operator
 
 /******************  Logical  operators******************/
-// && LOgical And  , || Logical Or , ! Logical Not 
+// && LOgical And  , || Logical Or , ! Logical Not
+/******************  Type  operators******************/
+// typeof  Return The type of a variable , instanceof Return True If object instanceof Object type 
