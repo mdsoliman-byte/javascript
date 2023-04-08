@@ -12,4 +12,15 @@
 
 
 /******************  Arithmetic operators******************/ 
-// + aditonal , -Subtraction , * multiplication, ** Exponention  , / Divition , % Modulas , ++ Increment , -- Decrement 
+// + aditonal , -Subtraction , * multiplication, ** Exponention  , / Divition , % Modulas , ++ Increment , -- Decrement
+
+
+/******************  Assignment operators******************/
+// =, +=, -=, *= , /=, %=, **= , 
+// = , a=b , a=b  
+// += , a+=b , a=a+b  
+// -= , a-=b , a=a-b  
+// *= , a*=b , a=a*b  if *= a*=b , than ,a = a*=b
+// /= , a/=b , a=a/b  
+// %= , a%=b , a=a%b  
+// **= , a**=b , a=a**b  
