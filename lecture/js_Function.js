@@ -6,9 +6,14 @@ function firstFnc(a, b) { // function diclaration
 }
 const result = firstFnc(10, 20); // function call 
 // console.log(result)
-function hello(name, age, address) {
+function hello(name, age, address) { // name , age , address is function peramiter 
     const mening = `${name} are ia a good man , she is ${age} years old , he lv in ${address}`
-    console.log(mening);
+    // console.log(mening);
+    // its a function block 
+    return mening;
 }
-hello("shakil",22, "dhaka" )
+const helloResult = hello("shakil", 22, "dhaka") // shakil , 22, dhaka , is function peramiter value ,, its call argument 
+console.log(helloResult);
+
+
 
