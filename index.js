@@ -4,4 +4,5 @@
 // require("./lecture/js_Syntax")
 // require("./lecture/js_variable");
 // require("./lecture/js_let_variable")
-require("./lecture/js_const_variable")
+// require("./lecture/js_const_variable")
+require("./lecture/js_AssignmentOperator")
