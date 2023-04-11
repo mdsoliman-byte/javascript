@@ -36,4 +36,5 @@ const obj = {
 }
 
 // console.log(obj)
-console.log(typeof obj );  // check any data type usige typeof 
+// console.log(typeof obj );  // check any data type usige typeof
+console.log(obj.name) // find any arry single data use array.propartyName 
