@@ -9,4 +9,5 @@
 // require("./lecture/js_DataType")
 // require("./lecture/js_Function")
 // require("./lecture/js_Object")
-require("./lecture/js_Events")
+// require("./lecture/js_Events")
+require('./lecture/js_string')
