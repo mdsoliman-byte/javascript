@@ -1,6 +1,8 @@
-What happens when we declare a let variable twice ? 
+What is function in JavaScript?
 
-1) It is fine to declare let variable twice
-2) It will show 'SyntaxError'
-3) Nothing Happens
-4) I will work perfectly
+1) A block of code
+2) An array of characters
+3) A new Operator
+4) A New Data type
+5) A data type used in JavaScript
+6) An useless data type
