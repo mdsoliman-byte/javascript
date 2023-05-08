@@ -11,3 +11,4 @@
 // require("./lecture/js_Object")
 // require("./lecture/js_Events")
 require('./lecture/js_string')
+require('./lecture/js_string_js')
