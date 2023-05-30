@@ -10,5 +10,7 @@
 // require("./lecture/js_Function")
 // require("./lecture/js_Object")
 // require("./lecture/js_Events")
-require('./lecture/js_string')
-require('./lecture/js_string_js')
+// require('./lecture/js_string')
+// require("./lecture/js_Hosting")
+require("./lecture/js_Scope")
+
